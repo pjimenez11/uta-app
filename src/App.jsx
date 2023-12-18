@@ -47,7 +47,7 @@ function App() {
         <AppRoutes />
       </main>
       {!isExternal && <Footer />}
-      <button id="myCustomTrigger" className="z-50 fixed  top-0 right-1/2 text-white dark:bg-gray-500 bg-gray-800 p-2 rounded-b-lg" >Show feedback form</button>
+      <button id="myCustomTrigger" className="z-50 fixed  top-0 right-1/2 text-white dark:bg-gray-500 bg-gray-800 p-2 rounded-b-lg" >Sugerencias</button>
     </>
   );
 }
