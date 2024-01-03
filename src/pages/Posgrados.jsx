@@ -8,7 +8,7 @@ export const Posgrados = () => {
 
   return (
     <div className="">
-      <div className="relative h-[500px]">
+      <div className="relative h-[300px]">
         <img
           src="https://posgrado.uta.edu.ec/v4.0/images/logowebcentroposgrados.png"
           alt="Posgrados"
