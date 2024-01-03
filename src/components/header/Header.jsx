@@ -61,13 +61,6 @@ export default function Header() {
             <AiOutlineInstagram className="text-xl" />
           </a>
           <a
-            href="https://www.facebook.com/UniversidadTecnicadeAmbatoOficial/"
-            target="_blank"
-            className="flex flex-row"
-          >
-            <BiLogoFacebook className="text-xl" />
-          </a>
-          <a
             href="https://twitter.com/UTecnicaAmbato"
             target="_blank"
             className="flex flex-row"
